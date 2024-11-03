@@ -13,3 +13,6 @@ alias w="cd /home/jconde"
 git init
 git add . //el . es para indicar todos los archivos
 git commit -m "" //agregar commit
+git branch
+git checkout -b //crea con -b una nueva rama
+git checkout main //te mueves entre las ramas con su nombre
