@@ -1,0 +1,14 @@
+cd
+ls
+mkdir
+touch
+nano
+cat
+rm
+sudo rm -rf
+virgulilla ~
+source .zshrc
+ls -a
+alias w="cd /home/jconde"
+git init
+git add . //el . es para indicar todos los archivos
