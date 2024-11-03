@@ -12,3 +12,4 @@ ls -a
 alias w="cd /home/jconde"
 git init
 git add . //el . es para indicar todos los archivos
+git commit -m "" //agregar commit

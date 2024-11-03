@@ -5,3 +5,4 @@
 ##### cada vez van haciendo mas pequeñas.
 ###### por lo que contamos con seis tamaños. 
 mi nombre es jonatan y estoy aprendiendo sobre modelos de lenguaje.
+actualmente estoy en la universidad estudiando ingenieria de sistemas.
